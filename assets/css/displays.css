@@ -1,0 +1,30 @@
+
+a{color: maroon;
+    text-decoration: none;
+    text-align: right;
+    display: inline;
+
+}
+i{color:green;
+    display: block;
+
+}
+
+/* Nav Bar */
+
+.navbar{padding: 10px;
+    margin-left: 300px;
+
+}
+
+ li{/*background-color: green; */
+   list-style-type: none;
+   margin-bottom: 10px;
+   display: inline-block;
+   padding: 8px;
+   width: 90px;
+   text-align: center;
+   margin-left: 40px;
+   border-radius: 5px;
+}
+

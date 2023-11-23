@@ -1,0 +1,12 @@
+/* For Class */
+.first{color: yellow;}
+.second{color: blue;}
+    /* border: 10px inset;} */
+/* 3D border are inset, outset,groove,ridge */
+
+/* For ID  */
+#new{border: 10px red groove;
+color: aqua;
+}
+
+p.first{color: blueviolet;}

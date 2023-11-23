@@ -1,0 +1,30 @@
+.shape1{
+    background-color: lightgrey;
+    float:right;
+    margin-right:400px;
+    text-align: center;
+    height: 550px;
+    width: 500px;
+    border-radius: 10px;
+}
+
+.info{margin-bottom: 6000px;
+    font-size: 22px;
+    font-weight: bold;
+    color: darkgreen;
+
+}
+div{
+    margin-top: 40px;
+}
+
+li{
+    float: right;
+    color:darkgreen;
+    border-radius: 6px;
+    border: 2px solid darkgreen;
+    text-align: center;
+    margin-right: 210px;
+    list-style-type: none;
+    font-size: 18px;
+}

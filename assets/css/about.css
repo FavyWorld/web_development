@@ -1,0 +1,136 @@
+body{
+    background-color: lightgray;
+}
+
+.logo{
+    float: left;
+    clear: right;
+    padding-bottom: 15px;
+
+}
+
+
+.nav{
+    width: 95%;
+    float: left;
+    clear: both;
+    margin-left: 20px;
+    margin-bottom: 30px;
+    list-style-type: none;
+    font-size: 15px;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+.home{
+    color: darkgreen;
+    text-align: center;
+    border-radius: 4px;
+    float: left;
+    clear: right;
+    margin-top: 30px;
+    margin-left: 150px;
+}
+
+.pro{
+    color: darkgreen;
+    text-align: center;
+    border-radius: 4px;
+    float: left;
+    clear: right;
+    margin-top: 30px;
+    margin-left: 150px;
+}
+
+.abt{
+    color: darkgreen;
+    text-align: center;
+    border-radius: 4px;
+    float: left;
+    clear: right;
+    margin-top: 30px;
+    margin-left: 150px;
+}
+
+.contact{
+    color: darkgreen;
+    text-align: center;
+    border-radius: 4px;
+    float: left;
+    clear: right;
+    margin-top: 30px;
+    margin-left: 150px;
+}
+
+.ja{
+    float: left;
+    clear: both;
+}
+
+.jai{
+    text-align: center;
+    font-style: italic;
+    color: darkgreen;
+    width: 50%;
+    margin-left: 300px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+.jaio{
+    font-size: 15px;
+    font-style: normal;
+    width: 95%;
+    margin-left: 10px;
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+
+.log{
+    float: left;
+    clear: both; 
+    width: 100%;
+}
+
+
+.l2{
+    text-align: left;
+    width: 90%;
+    margin-left: 5px;
+    color:black;
+    font-size: 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: normal;    
+}
+
+.ha{
+    float: left;
+    clear: both;
+    width: 95%;
+    background-color: black;
+    height: 25%;
+    border-bottom: 30px;
+}
+
+.haa{
+    border-bottom: 30px;
+    float: left;
+    clear: both;
+
+}
+
+.haaa{
+    border-bottom: 30px;
+    float: left;
+    clear: both;
+
+}
+
+.haaa{
+    border-bottom: 30px;
+
+}
+

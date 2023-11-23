@@ -1,0 +1,40 @@
+/* div.heading1{
+    font-size: 40px;
+    font-weight: 900;
+
+}
+
+div.underline{
+    font-size: 16px;
+    text-decoration: underline;
+}
+
+span.italics{
+    font-size: 20px;
+    font-style: italic;
+} */
+
+div{height: 100px;
+    width: 20%;
+}
+.first{
+    background-color: maroon;
+    height: 90px;
+    float: right;
+}
+
+.second{
+    background-color: chartreuse;
+    height: 90px
+    
+}
+
+.third{
+    background-color: orangered;
+    
+}
+
+.fouth{
+    background-color: blue;
+    
+}
